@@ -1,0 +1,26 @@
+.Circle {
+
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  position: relative;
+  float: left;
+  margin: 15px;
+
+}
+
+#Circle1{
+
+    background-color: blue;
+}
+
+#Circle2{
+
+background-color: green;
+
+}
+
+
+#Circle3{
+  background-color: red;
+}
